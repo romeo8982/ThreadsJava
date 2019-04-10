@@ -1,4 +1,4 @@
-package deafult;
+package all;
 public abstract class Algorithm {
 	
 	protected Instance instance;

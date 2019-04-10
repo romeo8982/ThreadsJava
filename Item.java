@@ -1,4 +1,4 @@
-package deafult;
+package all;
 public class Item {
 	private double value;
 	private int weight;
