@@ -36,4 +36,8 @@ public class Greedy extends Algorithm {
 		}
 		return opt;
 	}
+	@Override
+	public String GetName() {
+		return "Greedy";
+	}
 }

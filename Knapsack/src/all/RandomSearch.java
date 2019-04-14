@@ -41,4 +41,9 @@ public class RandomSearch extends Algorithm {
 		}
 		return opt;
 	}
+
+	@Override
+	public String GetName() {
+		return "Random";
+	}
 }

@@ -15,4 +15,5 @@ public abstract class Algorithm {
 	 * @return Problem solution
 	 */
 	public abstract Solution GetSolution();
+	public abstract String GetName();
 }

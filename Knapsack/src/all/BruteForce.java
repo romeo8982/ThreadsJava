@@ -33,5 +33,10 @@ public class BruteForce extends Algorithm {
 			}
 		
 		return opt;
+	}
+
+	@Override
+	public String GetName() {
+		return "Brute";
 	}	
 }
